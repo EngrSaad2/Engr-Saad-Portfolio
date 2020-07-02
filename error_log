@@ -1,0 +1,16 @@
+[30-Jun-2020 06:21:47 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 5
+[30-Jun-2020 06:23:05 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 5
+[30-Jun-2020 06:23:42 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 5
+[30-Jun-2020 06:25:38 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 5
+[30-Jun-2020 06:28:14 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 5
+[30-Jun-2020 06:29:43 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 5
+[30-Jun-2020 06:31:45 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 6
+[30-Jun-2020 06:33:36 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 5
+[30-Jun-2020 06:33:49 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 5
+[30-Jun-2020 06:35:37 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 7
+[30-Jun-2020 06:36:01 America/New_York] PHP Notice:  Undefined index: phone in /home/saad/saadportfolio/mail_handler.php on line 7
+[30-Jun-2020 06:59:22 America/New_York] PHP Notice:  Undefined index: submit in /home/saad/saadportfolio/mail_handler.php on line 11
+[30-Jun-2020 07:00:01 America/New_York] PHP Notice:  Undefined index: submit in /home/saad/saadportfolio/mail_handler.php on line 11
+[30-Jun-2020 09:49:10 America/New_York] PHP Notice:  Undefined index: submit in /home/saad/saadportfolio/mail_handler.php on line 11
+[30-Jun-2020 10:33:30 America/New_York] PHP Notice:  Undefined index: submit in /home/saad/saadportfolio/mail_handler.php on line 11
+[30-Jun-2020 11:34:42 America/New_York] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING) in /home/saad/saadportfolio/mail_handler.php on line 13
