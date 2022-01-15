@@ -1,5 +1,5 @@
 # Engr Saad Web Portfolio
-Developer: <b>SAAD</b> <br>...................
+Developer: <b>SAAD</b> <br>..................
 Email: saad@triangeltech.com<br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/developer.saad<br>
