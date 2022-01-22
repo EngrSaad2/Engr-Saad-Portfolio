@@ -5,7 +5,7 @@
 	$message = $_POST['message'];
 	
 	$email_from = "saad@triangeltech.com";
-...
+
 	$email_subject = "New Message From Saad Portfolio";
 
 	$email_body = "User Name: $name.\n".
