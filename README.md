@@ -3,7 +3,7 @@ Developer: <b>SAAD</b> <br>
 Email: saad@triangeltech.com<br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/developer.saad<br>
-Company WEB: https://triangeltech.com <br>........
+Company WEB: https://triangeltech.com <br>.......
 Personal Profile: http://saadportfolio.com  <br>
 Phone: +8801904654712<br>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Saad-Web-Portfolio)
